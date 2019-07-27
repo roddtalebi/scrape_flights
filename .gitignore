@@ -1,2 +1,5 @@
+# ignore logs by chromedriver
+debug.log
+
 # Notebook checkpoints
 .ipynb_checkpoints/
